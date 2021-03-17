@@ -49,4 +49,5 @@
 * Nintendo 3DS
 * Nintendo Switch
   * HDMIキャプチャ(録画環境)あり
-* Gaming PC(Core i7 6700K, GeForce GTX970)
+* Gaming PC(Core i7 6700K, GeForce GTX970 => GTX 1060 Super)
+* Gaming PC(Ryzen9 5900X, GeForce RTX3080)
